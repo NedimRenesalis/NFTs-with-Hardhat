@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NedimRenesalis/NFTs-with-Hardhat/issues"
   },
-  "homepage": "https://github.com/NedimRenesalis/NFTs-with-Hardhat#readme"
+  "homepage": "https://github.com/NedimRenesalis/NFTs-with-Hardhat#readme",
+  "devDependencies": {
+    "hardhat": "^2.2.1"
+  }
 }
